@@ -1,8 +1,8 @@
 #define _OksBuildDll_
 
-#include <oks/index.h>
-#include <oks/attribute.h>
-#include <oks/class.h>
+#include "oks/index.hpp"
+#include "oks/attribute.hpp"
+#include "oks/class.hpp"
 
 
 size_t

@@ -10,8 +10,8 @@
 #ifndef OKS_ATTRIBUTE_H
 #define OKS_ATTRIBUTE_H
 
-#include <oks/defs.h>
-#include <oks/object.h>
+#include "oks/defs.hpp"
+#include "oks/object.hpp"
 
 #include <string>
 #include <vector>

@@ -1,13 +1,13 @@
 #define _OksBuildDll_
 
-#include <oks/query.h>
-#include <oks/attribute.h>
-#include <oks/relationship.h>
-#include <oks/class.h>
-#include <oks/object.h>
-#include <oks/kernel.h>
-#include <oks/index.h>
-#include <oks/profiler.h>
+#include "oks/query.hpp"
+#include "oks/attribute.hpp"
+#include "oks/relationship.hpp"
+#include "oks/class.hpp"
+#include "oks/object.hpp"
+#include "oks/kernel.hpp"
+#include "oks/index.hpp"
+#include "oks/profiler.hpp"
 
 #include <stdexcept>
 #include <sstream>

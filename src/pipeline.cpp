@@ -4,7 +4,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#include <oks/pipeline.h>
+#include "oks/pipeline.hpp"
 #include <boost/bind/bind.hpp>
 
 bool

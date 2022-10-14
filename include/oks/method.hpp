@@ -13,7 +13,7 @@
 #include <string>
 #include <list>
 
-#include <oks/defs.h>
+#include "oks/defs.hpp"
 
 class   OksXmlOutputStream;
 class   OksXmlInputStream;

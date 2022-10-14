@@ -10,8 +10,8 @@
 #ifndef __OKS_QUERY
 #define __OKS_QUERY
 
-#include <oks/defs.h>
-#include <oks/object.h>
+#include "oks/defs.hpp"
+#include "oks/object.hpp"
 
 #include <list>
 #include <exception>

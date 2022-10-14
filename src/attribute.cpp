@@ -1,11 +1,11 @@
 #define _OksBuildDll_
 
-#include <oks/attribute.h>
-#include <oks/xml.h>
-#include <oks/class.h>
-#include <oks/kernel.h>
-#include <oks/object.h>
-#include <oks/cstring.h>
+#include "oks/attribute.hpp"
+#include "oks/xml.hpp"
+#include "oks/class.hpp"
+#include "oks/kernel.hpp"
+#include "oks/object.hpp"
+#include "oks/cstring.hpp"
 
 #include "logging/Logging.hpp"
 

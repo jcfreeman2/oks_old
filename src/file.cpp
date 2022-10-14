@@ -1,9 +1,9 @@
 #define _OksBuildDll_
 
-#include <oks/file.h>
-#include <oks/kernel.h>
-#include <oks/xml.h>
-#include <oks/cstring.h>
+#include "oks/file.hpp"
+#include "oks/kernel.hpp"
+#include "oks/xml.hpp"
+#include "oks/cstring.hpp"
 
 #include "oks_utils.h"
 

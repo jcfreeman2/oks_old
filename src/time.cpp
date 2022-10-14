@@ -1,6 +1,6 @@
 #define _OksBuildDll_
 
-#include <oks/defs.h>
+#include "oks/defs.hpp"
 #include "oks_utils.h"
 
 #include <stdlib.h>

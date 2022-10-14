@@ -8,9 +8,9 @@
 #include <fstream>
 #include <stdexcept>
 
-#include <oks/defs.h>
-#include <oks/exceptions.h>
-#include <oks/cstring.h>
+#include "oks/defs.hpp"
+#include "oks/exceptions.hpp"
+#include "oks/cstring.hpp"
 
 struct OksData;
 

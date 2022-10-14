@@ -1,7 +1,7 @@
 #define _OksBuildDll_
 
-#include <oks/profiler.h>
-#include <oks/kernel.h>
+#include "oks/profiler.hpp"
+#include "oks/kernel.hpp"
 
 static const char *OksProfilerFunctionsStr[] = {
   "OksKernel::Destructor",

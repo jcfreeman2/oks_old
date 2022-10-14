@@ -8,7 +8,7 @@
 #include <boost/date_time/gregorian/gregorian_types.hpp>
 
 #include "oks/config/map.hpp"
-#include <oks/exceptions.h>
+#include "oks/exceptions.hpp"
 
 class OksClass;
 class OksObject;

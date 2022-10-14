@@ -10,9 +10,9 @@
 #ifndef OKS_OBJECT_H
 #define OKS_OBJECT_H
 
-#include <oks/defs.h>
-#include <oks/file.h>
-#include <oks/exceptions.h>
+#include "oks/defs.hpp"
+#include "oks/file.hpp"
+#include "oks/exceptions.hpp"
 
 #include <stdint.h>
 

@@ -1,9 +1,9 @@
-#include <oks/xml.h>
-#include <oks/defs.h>
-#include <oks/exceptions.h>
-#include <oks/kernel.h>
-#include <oks/object.h>
-#include <oks/cstring.h>
+#include "oks/xml.hpp"
+#include "oks/defs.hpp"
+#include "oks/exceptions.hpp"
+#include "oks/kernel.hpp"
+#include "oks/object.hpp"
+#include "oks/cstring.hpp"
 
 #include <iostream>
 #include <sstream>

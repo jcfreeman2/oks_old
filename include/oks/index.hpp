@@ -1,9 +1,9 @@
 #ifndef __OKS_INDEX
 #define __OKS_INDEX
 
-#include <oks/query.h>
-#include <oks/attribute.h>
-#include <oks/object.h>
+#include "oks/query.hpp"
+#include "oks/attribute.hpp"
+#include "oks/object.hpp"
 
 #include <set>
 

@@ -1,14 +1,14 @@
 #define _OksBuildDll_
 
-#include <oks/class.h>
-#include <oks/xml.h>
-#include <oks/relationship.h>
-#include <oks/method.h>
-#include <oks/kernel.h>
-#include <oks/object.h>
-#include <oks/index.h>
-#include <oks/profiler.h>
-#include <oks/cstring.h>
+#include "oks/class.hpp"
+#include "oks/xml.hpp"
+#include "oks/relationship.hpp"
+#include "oks/method.hpp"
+#include "oks/kernel.hpp"
+#include "oks/object.hpp"
+#include "oks/index.hpp"
+#include "oks/profiler.hpp"
+#include "oks/cstring.hpp"
 
 #include "ers/ers.hpp"
 #include "logging/Logging.hpp"

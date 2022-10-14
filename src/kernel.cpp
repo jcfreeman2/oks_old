@@ -32,17 +32,17 @@
 
 #include "oks/config/map.hpp"
 
-#include <oks/kernel.h>
-#include <oks/xml.h>
-#include <oks/file.h>
-#include <oks/attribute.h>
-#include <oks/relationship.h>
-#include <oks/method.h>
-#include <oks/class.h>
-#include <oks/object.h>
-#include <oks/profiler.h>
-#include <oks/pipeline.h>
-#include <oks/cstring.h>
+#include "oks/kernel.hpp"
+#include "oks/xml.hpp"
+#include "oks/file.hpp"
+#include "oks/attribute.hpp"
+#include "oks/relationship.hpp"
+#include "oks/method.hpp"
+#include "oks/class.hpp"
+#include "oks/object.hpp"
+#include "oks/profiler.hpp"
+#include "oks/pipeline.hpp"
+#include "oks/cstring.hpp"
 
 #include "oks_utils.h"
 

@@ -1,10 +1,10 @@
 #define _OksBuildDll_
 
-#include <oks/relationship.h>
-#include <oks/xml.h>
-#include <oks/class.h>
-#include <oks/kernel.h>
-#include <oks/cstring.h>
+#include "oks/relationship.hpp"
+#include "oks/xml.hpp"
+#include "oks/class.hpp"
+#include "oks/kernel.hpp"
+#include "oks/cstring.hpp"
 
 #include <sstream>
 

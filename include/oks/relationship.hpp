@@ -10,7 +10,7 @@
 #ifndef OKS_RELATIONSHIP_H
 #define OKS_RELATIONSHIP_H
 
-#include <oks/defs.h>
+#include "oks/defs.hpp"
 
 #include <string>
 
@@ -49,7 +49,7 @@ class   OksXmlInputStream;
    *    \paragraph ex Example
    *    The following code:
 \code
-#include <oks/relationship.h>
+#include "oks/relationship.hpp"
 
 int main()
 {

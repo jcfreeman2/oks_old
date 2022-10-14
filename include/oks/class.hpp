@@ -10,8 +10,8 @@
 #ifndef OKS_CLASS_H
 #define OKS_CLASS_H
 
-#include <oks/index.h>
-#include <oks/exceptions.h>
+#include "oks/index.hpp"
+#include "oks/exceptions.hpp"
 
 #include <list>
 #include <map>

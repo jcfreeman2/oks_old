@@ -3,7 +3,7 @@
 
 #include <chrono>
 
-#include <oks/defs.h>
+#include "oks/defs.hpp"
 
 class OksKernel;
 
