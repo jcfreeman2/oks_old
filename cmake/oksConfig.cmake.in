@@ -5,6 +5,8 @@ include(CMakeFindDependencyMacro)
 
 find_dependency(ers)
 find_dependency(Boost COMPONENTS thread date_time regex)
+find_dependency(logging)
+find_dependency(system)
 
 # Figure out whether or not this dependency is an installed package or
 # in repo form
